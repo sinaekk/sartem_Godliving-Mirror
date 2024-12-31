@@ -1,9 +1,9 @@
 const cacheName = "FutureVision-GodLiving-0.1";
 const contentToCache = [
-    "Build/24.12.31.godliving.loader.js",
-    "Build/24.12.31.godliving.framework.js",
-    "Build/24.12.31.godliving.data",
-    "Build/24.12.31.godliving.wasm",
+    "Build/sartem_Godliving-Mirror.loader.js",
+    "Build/sartem_Godliving-Mirror.framework.js",
+    "Build/sartem_Godliving-Mirror.data",
+    "Build/sartem_Godliving-Mirror.wasm",
     "TemplateData/style.css"
 
 ];
